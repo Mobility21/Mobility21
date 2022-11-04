@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mobility21
+- 👀 I’m interested in learning python and c++
+- You can contact me on tengkuf01@gmail.com
